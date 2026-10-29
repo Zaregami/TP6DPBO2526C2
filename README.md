@@ -63,6 +63,7 @@ Arsitektur program memisahkan tanggung jawab logika permainan, antarmuka visual 
 ## Dokumentasi Jalannya Program
 
 - **File Video**: [Dokumentasi/gameplay.mp4](Dokumentasi/gameplay.mp4)
+- **Link**: https://drive.google.com/file/d/1oIFr6zpf0XQ2MFYSJmN25vWVKKcr9haj/view?usp=sharing
 
 
 ## note
